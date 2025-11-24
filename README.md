@@ -1,6 +1,6 @@
-uhh this is a local youtube downloader in a single html file
+uhh this is a local youtube downloader in a single html file idk if it works anymore
 
-have fun lol
+have fun i guess
 
 **Credits**
 
